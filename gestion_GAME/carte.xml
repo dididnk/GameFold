@@ -1,0 +1,14 @@
+<!-- Folt configuration file that can be modified -->
+<level>
+	<starting_position>
+		<x>2</x>
+		<y>3</y>
+		<color_index>2</color_index>
+	</starting_position>
+	<width>5</width>
+	<height>7</height>
+	<nb_colors>4</nb_colors>
+    <nb_next_colors>3</nb_next_colors>
+    <min_nb_cells_in_cc>4</min_nb_cells_in_cc>
+	<goal>40</goal>
+</level>
